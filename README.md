@@ -6,12 +6,8 @@ Pero mi esencia va más allá del mundo digital. Admiro la profundidad de las le
 
 Soy un explorador de ideas, un creador de soluciones, un soñador con los pies en la tierra y la mirada en las estrellas. 🚀✨ 🚀  
 
----
-
 ## 🏅 Sobre mí profecion
 💡 Ingeniero de Sistemas con habilidades en desarrollo web, diseño y optimización de software. Experto en el análisis y gestión de bases de datos, implementación de tecnologías de la información y mejora de procesos empresariales. Con enfoque en metodologías ágiles (Scrum) y atención a clientes, garantizando soluciones innovadoras y eficientes con impacto organizacional y social.
-
----
 
 ## 🎯 Metas  
 
@@ -22,8 +18,6 @@ Soy un explorador de ideas, un creador de soluciones, un soñador con los pies e
 ###  **Largo plazo:**  
    - Crear un producto con impacto positivo en el mundo tecnológico. 🌍💡  
    - Contribuir a soluciones innovadoras que beneficien el medio ambiente. 🌱⚡  
-
----
 
 ## 💻 Habilidades  
 ### 🔹 Tech Stack  
