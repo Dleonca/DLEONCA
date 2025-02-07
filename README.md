@@ -19,8 +19,6 @@ Soy un explorador de ideas, un creador de soluciones, un soñador con los pies e
    - Crear un producto con impacto positivo en el mundo tecnológico. 🌍💡  
    - Contribuir a soluciones innovadoras que beneficien el medio ambiente. 🌱⚡  
 
-## 💻 Habilidades  
-
 ## 💻 Tech Stack  
 
 ### 🚀 Lenguajes  
@@ -33,9 +31,9 @@ Soy un explorador de ideas, un creador de soluciones, un soñador con los pies e
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)  ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 
 ### ⚙️ DevOps & Herramientas  
-![Docker](https://img.shields.io/badge/Docker-%230081CB.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230081CB.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
 
-### 🔹 Soft Skills  
+## 🤝 Soft Skills  
 - Trabajo en equipo 🤝  
 - Resolución de problemas 🧠  
 - Comunicación efectiva 🗣️  
@@ -51,6 +49,7 @@ Soy un explorador de ideas, un creador de soluciones, un soñador con los pies e
 ## 📚 Educación y Certificaciones  
 🎓 **Ingeniería en Sistemas** - [Nombre de la Universidad]  
 📜 Certificación en Docker y Kubernetes  
+📜 html5  
 
 ---
 
