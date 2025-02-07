@@ -14,10 +14,13 @@ Soy un explorador de ideas, un creador de soluciones, un soñador con los pies e
 ---
 
 ## 🎯 Metas  
-✅ Mejorar en optimización de aplicaciones web.  
-✅ Contribuir en proyectos Open Source.  
-✅ Aprender nuevas tecnologías de backend y cloud.  
-
+🔹 Corto plazo: 
+   ✅Implementar soluciones en la nube para optimizar rendimiento y escalabilidad. ☁️🚀
+🔹 Mediano plazo: 
+   ✅Profundizar en seguridad en tecnologías para desarrollar sistemas más confiables. 🔐🛡️
+🔹 Largo plazo:
+   ✅Crear un producto con impacto positivo en el mundo tecnológico. 🌍💡
+   ✅Contribuir a soluciones innovadoras que beneficien el medio ambiente. 🌱⚡
 ---
 
 ## 💻 Habilidades  
