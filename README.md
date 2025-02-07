@@ -20,11 +20,30 @@ Soy un explorador de ideas, un creador de soluciones, un soñador con los pies e
    - Contribuir a soluciones innovadoras que beneficien el medio ambiente. 🌱⚡  
 
 ## 💻 Habilidades  
-### 🔹 Tech Stack  
-- **Lenguajes:** Java, JavaScript, PHP, python  
-- **Frameworks:** Spring Boot, React, Angular 
-- **Bases de Datos:** MySQL, PostgreSQL, Oracle, sql server 
-- **DevOps & Herramientas:** Docker, Git, Jenkins  
+
+## 💻 Tech Stack  
+
+### 🚀 Lenguajes  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+
+### 🏗 Frameworks  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
+
+### 🗄 Bases de Datos  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+
+### ⚙️ DevOps & Herramientas  
+![Docker](https://img.shields.io/badge/Docker-%230081CB.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
 
 ### 🔹 Soft Skills  
 - Trabajo en equipo 🤝  
