@@ -44,18 +44,22 @@ Soy un explorador de ideas, un creador de soluciones, un soñador con los pies e
 🔹 [Proyecto 1](https://github.com/usuario/proyecto1) - Optimización de carga en una aplicación web.  
 🔹 [Proyecto 2](https://github.com/usuario/proyecto2) - Plataforma de gestión con React y Spring Boot.  
 
----
+## 🎓 Estudios y Certificaciones  
 
-## 📚 Educación y Certificaciones  
-🎓 **Ingeniería en Sistemas** - [Nombre de la Universidad]  
-📜 Certificación en Docker y Kubernetes  
-📜 html5  
+### 📚 Educación  
+- 🎓 **Ingeniería de Sistemas** (2019 - 2024)  
+  - Diplomado en marcos ágiles: **Scrum, Design Thinking, Kanban**  
 
----
+### 🏆 Certificaciones  
+- 📜 **Desarrollo Web con JavaScript** - Udemy  
+- 📜 **Desarrollo Web con CSS** - Udemy  
+- 📜 **HTML5** - Udemy  
+- 📜 **Análisis y Desarrollo de Sistemas de Información** - SENA  
+
 
 ## 📩 Contacto  
-📧 [correo@ejemplo.com](mailto:dleonc2499@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/usuario)  
+📧 [dleonc2499@gmail.com](mailto:dleonc2499@gmail.com)  
+💼 [LinkedIn](www.linkedin.com/in/daniela-león-cantero-9b0a43170)  
 
 
 ---
