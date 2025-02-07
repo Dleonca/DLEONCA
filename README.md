@@ -33,24 +33,25 @@ Soy un explorador de ideas, un creador de soluciones, un soñador con los pies e
 ### ⚙️ DevOps & Herramientas  
 ![Docker](https://img.shields.io/badge/Docker-%230081CB.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
 
-## 🤝 Soft Skills  
-- Trabajo en equipo 🤝  
-- Resolución de problemas 🧠  
-- Comunicación efectiva 🗣️  
+## 💡 Soft Skills  
 
----
+- 🤝 **Trabajo en equipo y colaboración**  
+- 🛠️ **Resolución de problemas**  
+- 🗣️ **Comunicación efectiva**  
+- 🔄 **Adaptabilidad al cambio**  
+- 📚 **Aprendizaje continuo**  
 
 ## 📌 Proyectos Destacados  
-🔹 [Proyecto 1](https://github.com/usuario/proyecto1) - Optimización de carga en una aplicación web.  
-🔹 [Proyecto 2](https://github.com/usuario/proyecto2) - Plataforma de gestión con React y Spring Boot.  
-
-## 🎓 Estudios y Certificaciones  
+🔹 [Proyecto 1](https://github.com/usuario/proyecto1) - POR CARGAR.  
 
 ### 📚 Educación  
 - 🎓 **Ingeniería de Sistemas** (2019 - 2024)  
   - Diplomado en marcos ágiles: **Scrum, Design Thinking, Kanban**  
 
 ### 🏆 Certificaciones  
+- 📜 **Angular - De Cero a Experto**  
+- 📜 **Máster Completo en Java de Cero a Experto 2025**  
+- 📜 **Microservicios: Guía Completa de Docker & Kubernetes**  
 - 📜 **Desarrollo Web con JavaScript** - Udemy  
 - 📜 **Desarrollo Web con CSS** - Udemy  
 - 📜 **HTML5** - Udemy  
@@ -59,7 +60,7 @@ Soy un explorador de ideas, un creador de soluciones, un soñador con los pies e
 
 ## 📩 Contacto  
 📧 [dleonc2499@gmail.com](mailto:dleonc2499@gmail.com)  
-💼 [LinkedIn](www.linkedin.com/in/daniela-león-cantero-9b0a43170)  
+💼 [LinkedIn](https://www.linkedin.com/in/daniela-le%C3%B3n-cantero-9b0a43170/)  
 
 
 ---
